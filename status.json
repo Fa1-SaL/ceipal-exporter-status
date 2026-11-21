@@ -1,4 +1,4 @@
 {
-  "retired": false,
-  "message": ""
+  "retired": true,
+  "message": "Retirement test is active. Exporting is temporarily paused."
 }
